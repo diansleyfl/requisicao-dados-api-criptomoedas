@@ -1,0 +1,2 @@
+Requisição de dados de API de Criptomoedas
+Projeto com o objetivo de criar uma página para fazer requisição de dados de uma api de criptomoedas. Projeto orientado pela professora Bárbara Casac, do Bootcamp SPTech Desenvolvimento Front-end.
